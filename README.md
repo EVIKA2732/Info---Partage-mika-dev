@@ -13,3 +13,5 @@ Stay tuned.
 Info & sharing will also allow you to learn about my projects on GitHub, or to find out more, about how I developed the site, the project is published in full transparency. From (future) moderator, will be able to integrate the moderation group on the site, if you find my email address, which is both hidden in the app, but also on the site.
 
 ;) :)
+
+
